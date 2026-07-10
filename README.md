@@ -43,12 +43,12 @@ Study Notion is an ED Tech (Education Technology) web application developed usin
 
 1. Clone the repository to your local machine.
    ```
-      git clone https://github.com/Abhay-yadav966/StudyNotion.git
+      git clone https://github.com/MimansaJain1312/Study-Notion.git
    ```
 2. Install the required packages.
 
    ```
-      cd StudyNotion
+      cd Study-Notion
       npm install
 
       cd server
@@ -73,5 +73,5 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 
 ## Authors
 
-- Vedant Agarwal
-- Jaydeep
+- Mimansa Jain
+- Shreya Agarwala
