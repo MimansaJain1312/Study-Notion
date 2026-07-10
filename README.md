@@ -4,7 +4,7 @@ Study Notion is an ED Tech (Education Technology) web application developed usin
 
 ## System Architecture
 
-![architecture](https://github.com/Abhay-yadav966/StudyNotion/assets/115336330/4d0f609e-feac-4265-aa82-52a6a1cf5aad)
+![architecture](https://drive.google.com/file/d/1uXxWk26LQqY3TsMgQj_HvvXVGvxpm-5j/view?usp=drive_link)
 
 ## Features
 
@@ -27,11 +27,10 @@ Study Notion is an ED Tech (Education Technology) web application developed usin
 
 ## Screenshots
 
-![Screenshot (198)](https://github.com/Abhay-yadav966/StudyNotion/assets/115336330/9412db4c-0d21-405b-967c-3e39c5c5c534)
-![Screenshot (234)](https://github.com/Abhay-yadav966/Travel-agency-website/assets/115336330/986f473b-3db2-421a-b4c1-a062c5eb7a86)
-![Screenshot (233)](https://github.com/Abhay-yadav966/StudyNotion/assets/115336330/bb32c363-6dd2-4ca2-af4e-4bad4c864303)
-![Screenshot (199)](https://github.com/Abhay-yadav966/StudyNotion/assets/115336330/6106d60f-c0c1-43cc-8da5-f88e28d9bd4d)
-![Screenshot (200)](https://github.com/Abhay-yadav966/StudyNotion/assets/115336330/b4e0d291-ff35-4332-98c5-6d2f174fe58d)
+![Screenshot (198)](https://drive.google.com/file/d/1pXrIXXEJKGR1t3UP6QUlRQ5PJhN4UwXa/view?usp=drive_link)
+![Screenshot (234)](https://drive.google.com/file/d/1g-NBtZOvIB9G8DynLKtNQnTI-R_mVV--/view?usp=drive_link)
+![Screenshot (233)](https://drive.google.com/file/d/16ktE275Swr3QXCde7UpnbqF1KXTMIp2Z/view?usp=drive_link)
+![Screenshot (199)](https://drive.google.com/file/d/1Z6bdfCGB8OXAu_v1FrauxhlAal85Hty-/view?usp=drive_link)
 
 ## Important
 
