@@ -20,8 +20,6 @@ Study Notion is an ED Tech (Education Technology) web application developed usin
 - Frontend: ReactJS, TailwindCSS
 - Backend: ExpressJS, NodeJS, MongoDB
 - Payment Processing: Razorpay
-- Frontend Hosting: Vercel
-- Backend Hosting: Render
 - Media Data Storage: Cloudinary
 - Profile Picture Generation: Dicebear API
 
